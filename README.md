@@ -1,0 +1,2 @@
+# Deep-Learning---Image-colorization-using-Algorithmia-API
+Deep learning is demonstrated by using API provided by Algorithmia.com. In this project, an image in black and white is given as input. Program will read the image from the location provided and applies Deep learning technique to colorize the image. The colorized image will be put in the Algorithmia user account's folder. As it is API calling, we need to provide API key for accessing the API provided by Algorithmia.
